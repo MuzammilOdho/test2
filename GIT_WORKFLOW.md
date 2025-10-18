@@ -73,8 +73,7 @@ Example:
 submission/
 └── team-alpha/
     ├── README.md
-    ├── src/
-    └── assets/
+    
 ```
 
 Once done, the **Team Lead** should commit and push these changes before inviting team members to contribute.
@@ -167,5 +166,5 @@ Once your team finalizes the project, the **Team Lead** must submit the project:
 | Commit changes | `git commit -m "message"` |
 | Push branch | `git push origin branch-name` |
 | Pull updates | `git pull origin branch-name` |
-| Sync with main repo | `git fetch upstream && git merge upstream/submission` |
+
 
